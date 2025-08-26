@@ -28,12 +28,13 @@ La uso como una aliada para acelerar ideas, potenciar la creatividad y convertir
 
 ---
 
-## 📌 Proyectos destacados
+## 📌 Proyectos destacados  
 
 ### 🛒 [KiokoG](https://www.kiokog.com)  
 🚀 **Mi proyecto principal y visión emprendedora.**  
 
 Un sistema integral de gestión para kioscos que combina **profesionalismo y accesibilidad**:  
+
 - 🔗 **Arquitectura Offline-First**: funciona incluso sin internet.  
 - 📱 **PWA multiplataforma**: usalo desde tu PC o teléfono, sin instalar nada complicado.  
 - 💸 **Sin inversión inicial**: no necesitás comprar impresoras caras ni hardware extra.  
@@ -44,16 +45,21 @@ Un sistema integral de gestión para kioscos que combina **profesionalismo y acc
 
 👉 **KiokoG no es solo un software**: es la posibilidad de que cualquier kiosco, almacén o pequeño negocio tenga tecnología de nivel profesional **sin barreras de entrada**.  
 
-📊 Más de **![Commits](https://img.shields.io/badge/Commits%20en%20KiokoG-692-green?style=for-the-badge)** dedicados a KiokoG, reflejando la constancia y evolución del proyecto.
+---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Commits%20en%20KiokoG-692-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Proyecto-Activo-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Accesible-Para%20todos-blue?style=for-the-badge" />
+</p>
+
+📊 Más de **690 commits** dedicados a KiokoG, reflejando la constancia y evolución del proyecto.  
 
 ---
 
 ### 🎓 Rebelde_Bug  
 Proyecto universitario colaborativo con **Vue.js**.  
 Un portafolio grupal desarrollado en equipo como parte de la UTN.  
-
----
 
 ## 🌐 Conectemos
 - 🌎 [www.kiokog.com](https://www.kiokog.com)  
