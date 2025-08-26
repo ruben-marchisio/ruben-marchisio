@@ -43,6 +43,7 @@ Un sistema integral de gestión para kioscos que combina **profesionalismo y acc
 - 🌍 Una **comunidad de usuarios** compartiendo productos.  
 
 👉 **KiokoG no es solo un software**: es la posibilidad de que cualquier kiosco, almacén o pequeño negocio tenga tecnología de nivel profesional **sin barreras de entrada**.  
+![Commits](https://img.shields.io/badge/Commits%20en%20KiokoG-692-green?style=for-the-badge)
 
 ---
 
