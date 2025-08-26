@@ -53,7 +53,7 @@ Un sistema integral de gestión para kioscos que combina **profesionalismo y acc
   <img src="https://img.shields.io/badge/Accesible-Para%20todos-blue?style=for-the-badge" />
 </p>
 
-📊 Más de **690 commits** dedicados a KiokoG, reflejando la constancia y evolución del proyecto.  
+📊  **commits** dedicados a KiokoG, reflejando la constancia y evolución del proyecto.  
 
 ---
 
